@@ -1,0 +1,13 @@
+<resources>
+	<string name="app_name">KAIF</string>
+
+	<!-- there are for facebook sdk -->
+	<string name="facebook_app_id">898813097928113</string>
+	<string name="fb_login_protocol_scheme">fb898813097928113</string>
+	<string name="facebook_client_token">0353f9ecd04efa48b937626c378732bd</string>
+
+
+	<!-- there is for google sdk -->
+	<string name="server_client_id">
+		517546574978-b7fbar7rhcb1ckikr7aefpkkqll3a33t.apps.googleusercontent.com</string>
+</resources>
